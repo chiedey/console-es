@@ -1,6 +1,6 @@
 {
   "name": "console-es",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Elasticsearch Node.js Helper",
   "main": "index.js",
   "scripts": {

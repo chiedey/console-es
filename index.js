@@ -1,7 +1,7 @@
 /**
  * Dependencies: elasticsearch
  * Quick start:
- *   require('/path/to/es.js')(
+ *   require('/path/to/es.js')({
  *     host: 'es上报地址',
  *     application: '应用名称',
  *     index: '日志"文件"名称'

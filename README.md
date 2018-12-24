@@ -1,10 +1,8 @@
 # Console ES
-Author: Mason(wengqidi@wps.cn)
-Date: 2018-12-24
 
 ## Quick start:
 ```javascript
-require('console-es')(
+require('console-es')({
   host: 'es上报地址',
   application: '应用名称',
   index: '日志"文件"名称'
