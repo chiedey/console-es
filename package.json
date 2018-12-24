@@ -1,0 +1,29 @@
+{
+  "name": "console-es",
+  "version": "1.0.0",
+  "description": "Elasticsearch Node.js Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiedey/console-es.git"
+  },
+  "keywords": [
+    "Elasticsearch",
+    "console.log",
+    "Node.js",
+    "Kibana",
+    "Javascript"
+  ],
+  "author": "Mason <wengqidi@wps.cn>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiedey/console-es/issues"
+  },
+  "homepage": "https://github.com/chiedey/console-es#readme",
+  "dependencies": {
+    "elasticsearch": "^15.2.0"
+  }
+}
